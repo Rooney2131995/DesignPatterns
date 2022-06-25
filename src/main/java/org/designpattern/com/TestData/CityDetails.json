@@ -1,0 +1,14 @@
+[
+  {
+    "From1": "AMD",
+    "To1": "DEL",
+    "From2": "GOI",
+    "To2": "BHO"
+  },
+  {
+    "From1": "BHO",
+    "To1": "GOI",
+    "From2": "DEL",
+    "To2": "AMD"
+  }
+]

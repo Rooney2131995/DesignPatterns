@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5166" started-at="2022-06-26T00:31:13 IST" finished-at="2022-06-26T00:31:18 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5166" started-at="2022-06-26T00:31:13 IST" finished-at="2022-06-26T00:31:18 IST">
+      <class name="org.designpattern.com.HeaderAndFooterTest">
+        <test-method status="PASS" signature="browserInitializer()[pri:0, instance:org.designpattern.com.HeaderAndFooterTest@22a67b4]" name="browserInitializer" is-config="true" duration-ms="4283" started-at="2022-06-26T00:31:13 IST" finished-at="2022-06-26T00:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitializer -->
+        <test-method status="PASS" signature="TestFooter()[pri:0, instance:org.designpattern.com.HeaderAndFooterTest@22a67b4]" name="TestFooter" duration-ms="100" started-at="2022-06-26T00:31:17 IST" finished-at="2022-06-26T00:31:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFooter -->
+        <test-method status="PASS" signature="TestHeader()[pri:0, instance:org.designpattern.com.HeaderAndFooterTest@22a67b4]" name="TestHeader" duration-ms="60" started-at="2022-06-26T00:31:18 IST" finished-at="2022-06-26T00:31:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHeader -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.designpattern.com.HeaderAndFooterTest@22a67b4]" name="browserClose" is-config="true" duration-ms="682" started-at="2022-06-26T00:31:18 IST" finished-at="2022-06-26T00:31:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.designpattern.com.HeaderAndFooterTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

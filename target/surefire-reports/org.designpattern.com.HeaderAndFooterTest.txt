@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.designpattern.com.HeaderAndFooterTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.68 s - in org.designpattern.com.HeaderAndFooterTest
